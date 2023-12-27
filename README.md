@@ -10,15 +10,20 @@ Sentiment analysis, also known as opinion mining, is the process of determining 
 Project Overview
 This project follows a structured approach:
 
-#  Data Collection: Utilizing the NLTK library, we gather a dataset of movie reviews, including both positive and negative examples.
+#  Data Collection: 
+   Utilizing the NLTK library, we gather a dataset of movie reviews, including both positive and negative examples.
 
-# Data Preprocessing: The collected data is preprocessed to extract relevant features, and the most common words are selected as features for classification.
+# Data Preprocessing: 
+  The collected data is preprocessed to extract relevant features, and the most common words are selected as features for classification.
 
-# Model Training: We employ a Naive Bayes classifier to train the model on the preprocessed data.
+# Model Training: 
+  We employ a Naive Bayes classifier to train the model on the preprocessed data.
 
-# Model Evaluation: The trained model is evaluated on a test set to measure its accuracy, and additional metrics such as precision, recall, and the confusion matrix are generated.
+# Model Evaluation: 
+  The trained model is evaluated on a test set to measure its accuracy, and additional metrics such as precision, recall, and the confusion matrix are generated.
 
-# Model Saving: The trained classifier can be saved for future use without retraining.
+# Model Saving: 
+  The trained classifier can be saved for future use without retraining.
 
 
 # **Contributing**
